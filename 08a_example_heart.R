@@ -34,4 +34,4 @@ text(prune.full, cex=0.75, pretty=0)
 ##numerical display of tree
 prune.full
 
-
+edit
